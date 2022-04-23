@@ -64,3 +64,19 @@ a.active,a:hover{
   float: inline-end;
 }
 
+p{
+  color: blanchedalmond;
+ 
+ }
+ h1{
+ color: blanchedalmond;
+ }
+ div{
+     color: blanchedalmond;
+ }
+ form{
+     margin: 20px;
+     width: 220px;
+     
+ }
+

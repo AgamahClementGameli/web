@@ -1,16 +1,20 @@
-
 p{
- color: blanchedalmond;
-
-}
-h1{
-color: blanchedalmond;
-}
-div{
     color: blanchedalmond;
-}
-form{
-    margin: 20px;
-    width: 220px;
-    
-}
+   
+   }
+   h1{
+   color: blanchedalmond;
+   }
+   div{
+       color: blanchedalmond;
+   }
+   form{
+       margin: 20px;
+       width: 220px;
+       
+   }
+   body{
+       background-image: url(myimage.jpg);
+       background-repeat: no-repeat;
+       background-size: cover;
+   }
